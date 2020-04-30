@@ -8,6 +8,7 @@ Projekt zaliczeniowy Android - aplikacja umożliwa logowanie i wylogowywanie pop
 ![1](https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/95176633_2697437803836813_960302692511514624_n.png?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=Xzexeb0tqnQAX-0OLRn&_nc_ht=scontent-waw1-1.xx&oh=d4f5a20074ad1d4a9fb88be343f30447&oe=5ECE2A98)
 * dodałam ją dzięki Firebase/ I added it by Firebase
 * użytkownik może wybrać pokazane już konta lub zalogować się poprzez nowe/ User can sign in by shown account or loggin by adding new one.
+
 ![2](https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/94882392_159683742152905_7159651688624685056_n.png?_nc_cat=101&_nc_sid=b96e70&_nc_ohc=cdBfI-FxfHQAX_eh-hG&_nc_ht=scontent-waw1-1.xx&oh=b3f9827c1ace5fc94ca38567f55b77e0&oe=5ED0029D)
 * Firebase pobiera dane z logowania/ Firebase gets data from sign in.
 * po zalogowaniu pokazują się napisy "Succuessful", "Signed In Succuessfuly" oraz mail na jki użytkownik się zalogował/ After logging in, the inscriptions "Succuessful", "Signed In Succuessfuly" and e-mail address appear that  user has logged in.
